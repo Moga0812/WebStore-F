@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Game>
+    <Title>The Legend of Zelda: Breath of the Wild</Title>
+    <Description>An open-world adventure with a focus on exploration and survival.</Description>
+    <Price>59.99</Price>
+    <ImagePath>zelda.jpg</ImagePath>
+    <Genre>Adventure</Genre>
+  </Game>
+  <Game>
+    <Title>Portal 2</Title>
+    <Description>A first-person puzzle game with a unique portal-based mechanic.</Description>
+    <Price>29.99</Price>
+    <ImagePath>portal2.jpg</ImagePath>
+    <Genre>Puzzle</Genre>
+  </Game>
+  <Game>
+    <Title>Grand Theft Auto V</Title>
+    <Description>An open-world game with a focus on criminal activities and a sprawling city.</Description>
+    <Price>49.99</Price>
+    <ImagePath>gta5.jpg</ImagePath>
+    <Genre>Action</Genre>
+  </Game>
+  <Game>
+    <Title>Stardew Valley</Title>
+    <Description>A farming simulation game with crafting, building, and social interactions.</Description>
+    <Price>14.99</Price>
+    <ImagePath>stardewvalley.jpg</ImagePath>
+    <Genre>Simulation</Genre>
+  </Game>
+  <Game>
+    <Title>Counter-Strike: Global Offensive</Title>
+    <Description>A competitive first-person shooter with tactical gameplay.</Description>
+    <Price>19.99</Price>
+    <ImagePath>csgo.jpg</ImagePath>
+    <Genre>Shooter</Genre>
+  </Game>
+  <Game>
+    <Title>Dark Souls III</Title>
+    <Description>A challenging action RPG with deep lore and intense combat.</Description>
+    <Price>39.99</Price>
+    <ImagePath>darksouls3.jpg</ImagePath>
+    <Genre>RPG</Genre>
+  </Game>
+  <Game>
+    <Title>The Witcher 3: Wild Hunt</Title>
+    <Description>An open-world RPG with a rich narrative and detailed world.</Description>
+    <Price>59.99</Price>
+    <ImagePath>witcher3.jpg</ImagePath>
+    <Genre>RPG</Genre>
+  </Game>
+  <Game>
+    <Title>Overwatch</Title>
+    <Description>A team-based shooter with diverse characters and unique abilities.</Description>
+    <Price>39.99</Price>
+    <ImagePath>overwatch.jpg</ImagePath>
+    <Genre>Shooter</Genre>
+  </Game>
+  <Game>
+    <Title>Celeste</Title>
+    <Description>A challenging platformer with tight controls and a touching story.</Description>
+    <Price>19.99</Price>
+    <ImagePath>celeste.jpg</ImagePath>
+    <Genre>Platformer</Genre>
+  </Game>
+  <Game>
+    <Title>Among Us</Title>
+    <Description>A multiplayer game of teamwork and betrayal in a space setting.</Description>
+    <Price>4.99</Price>
+    <ImagePath>amongus.jpg</ImagePath>
+    <Genre>Party</Genre>
+  </Game>
+  <Game>
+    <Title>Minecraft</Title>
+    <Description>A sandbox game where you can build, explore, and survive in a blocky world.</Description>
+    <Price>26.95</Price>
+    <ImagePath>minecraft.jpg</ImagePath>
+    <Genre>Sandbox</Genre>
+  </Game>
+  <Game>
+    <Title>League of Legends</Title>
+    <Description>A multiplayer online battle arena (MOBA) with strategic gameplay.</Description>
+    <Price>Free</Price>
+    <ImagePath>lol.jpg</ImagePath>
+    <Genre>MOBA</Genre>
+  </Game>
+  <Game>
+    <Title>Hades</Title>
+    <Description>A rogue-like dungeon crawler with fast-paced combat and rich story.</Description>
+    <Price>24.99</Price>
+    <ImagePath>hades.jpg</ImagePath>
+    <Genre>Rogue-like</Genre>
+  </Game>
+  <Game>
+    <Title>Slay the Spire</Title>
+    <Description>A deck-building rogue-like with strategic card-based combat.</Description>
+    <Price>24.99</Price>
+    <ImagePath>slaythespire.jpg</ImagePath>
+    <Genre>Card Game</Genre>
+  </Game>
+  <Game>
+    <Title>Animal Crossing: New Horizons</Title>
+    <Description>A life simulation game where you build and manage your island paradise.</Description>
+    <Price>59.99</Price>
+    <ImagePath>animalcrossing.jpg</ImagePath>
+    <Genre>Simulation</Genre>
+  </Game>
+  <Game>
+    <Title>Terraria</Title>
+    <Description>A sandbox adventure game with exploration, crafting, and combat.</Description>
+    <Price>9.99</Price>
+    <ImagePath>terraria.jpg</ImagePath>
+    <Genre>Sandbox</Genre>
+  </Game>
+  <Game>
+    <Title>FIFA 23</Title>
+    <Description>The latest in the popular soccer simulation series.</Description>
+    <Price>69.99</Price>
+    <ImagePath>fifa23.jpg</ImagePath>
+    <Genre>Sports</Genre>
+  </Game>
+  <Game>
+    <Title>Dead Cells</Title>
+    <Description>A rogue-like metroidvania with fast-paced combat and exploration.</Description>
+    <Price>24.99</Price>
+    <ImagePath>deadcells.jpg</ImagePath>
+    <Genre>Action</Genre>
+  </Game>
+  <Game>
+    <Title>Dragon Age: Inquisition</Title>
+    <Description>A fantasy RPG with a deep story and complex characters.</Description>
+    <Price>39.99</Price>
+    <ImagePath>dragonage.jpg</ImagePath>
+    <Genre>RPG</Genre>
+  </Game>
+  <Game>
+    <Title>Rocket League</Title>
+    <Description>A unique sports game combining soccer with rocket-powered cars.</Description>
+    <Price>19.99</Price>
+    <ImagePath>rocketleague.jpg</ImagePath>
+    <Genre>Sports</Genre>
+  </Game>
+  <Game>
+    <Title>Forza Horizon 5</Title>
+    <Description>An open-world racing game set in a fictionalized Mexico.</Description>
+    <Price>59.99</Price>
+    <ImagePath>forzahorizon5.jpg</ImagePath>
+    <Genre>Racing</Genre>
+  </Game>
+  <Game>
+    <Title>Valheim</Title>
+    <Description>A survival game set in a procedurally-generated Viking world.</Description>
+    <Price>19.99</Price>
+    <ImagePath>valheim.jpg</ImagePath>
+    <Genre>Survival</Genre>
+  </Game>
+</ArrayOfGame>
